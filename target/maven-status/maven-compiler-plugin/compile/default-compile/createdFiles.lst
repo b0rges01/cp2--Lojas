@@ -1,0 +1,7 @@
+com\example\api_lojas\repository\ProdutoRepository.class
+com\example\api_lojas\model\Produto.class
+com\example\api_lojas\Application.class
+com\example\api_lojas\repository\LojaRepository.class
+com\example\api_lojas\controller\ProdutoController.class
+com\example\api_lojas\controller\LojaController.class
+com\example\api_lojas\model\Loja.class
