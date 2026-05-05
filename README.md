@@ -52,13 +52,7 @@ docker-compose down
 ### 2. Rodar a aplicação
 
 ```bash
-./mvnw spring-boot:run
-```
-
-Ou, no Windows:
-
-```bash
-mvnw.cmd spring-boot:run
+mvn spring-boot:run
 ```
 
 A aplicação estará disponível em: **http://localhost:8080**
